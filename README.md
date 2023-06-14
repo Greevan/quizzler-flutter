@@ -2,9 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+  In this application, there is 20 questions for which the answers will be intimated in the bottom scorecard,finally a ALERT popup comes where user can restart the quizzler and start from beginning of the Quiz app.
 
 A few resources to get you started if this is your first Flutter project:
 
